@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Story book",
+        "title": "Best book forever for learner!",
+        "category": "free",
+        "price":0,
+        "image": "https://img.freepik.com/free-photo/stack-books-with-library-scene_91128-4327.jpg?uid=R154955861&ga=GA1.2.1043989115.1720144836&semt=sph"
+    },
+    {
+        "id": 2,
+        "name": "Adventure book",
+        "title": "Exciting tales for brave hearts!",
+        "category": "free",
+        "price":0,
+        "image": "https://img.freepik.com/free-photo/stack-books-with-library-scene_91128-4327.jpg?uid=R154955861&ga=GA1.2.1043989115.1720144836&semt=sph"
+    },
+    {
+        "id": 3,
+        "name": "Sports book",
+        "title": "Best book forever for learner!",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-photo/stack-books-with-library-scene_91128-4327.jpg?uid=R154955861&ga=GA1.2.1043989115.1720144836&semt=sph"
+    },
+    {
+        "id": 4,
+        "name": "Tough book",
+        "title": "Best book forever for learner!",
+        "price": 0,
+        "category": "tough",
+        "image": "https://img.freepik.com/free-photo/stack-books-with-library-scene_91128-4327.jpg?uid=R154955861&ga=GA1.2.1043989115.1720144836&semt=sph"
+    },
+    {
+        "id": 5,
+        "name": "Mystery book",
+        "title": "Unravel the secrets within!",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-photo/stack-books-with-library-scene_91128-4327.jpg?uid=R154955861&ga=GA1.2.1043989115.1720144836&semt=sph"
+    },
+    {
+        "id": 6,
+        "name": "Science book",
+        "title": "Explore the wonders of science!",
+        "category": "educational",
+        "price":0,
+        "image": "https://img.freepik.com/free-photo/stack-books-with-library-scene_91128-4327.jpg?uid=R154955861&ga=GA1.2.1043989115.1720144836&semt=sph"
+    },
+    {
+        "id": 7,
+        "name": "History book",
+        "title": "Dive into the past!",
+        "price": 0,
+        "category": "educational",
+        "image": "https://img.freepik.com/free-photo/stack-books-with-library-scene_91128-4327.jpg?uid=R154955861&ga=GA1.2.1043989115.1720144836&semt=sph"
+    },
+    {
+        "id": 8,
+        "name": "Fantasy book",
+        "title": "Enter a world of magic!",
+        "category": "fiction",
+        "price":0,
+        "image": "https://img.freepik.com/free-photo/stack-books-with-library-scene_91128-4327.jpg?uid=R154955861&ga=GA1.2.1043989115.1720144836&semt=sph"
+    },
+    {
+        "id": 9,
+        "name": "Self-help book",
+        "title": "Improve yourself!",
+        "price": 0,
+        "category": "non-fiction",
+        "image": "https://img.freepik.com/free-photo/stack-books-with-library-scene_91128-4327.jpg?uid=R154955861&ga=GA1.2.1043989115.1720144836&semt=sph"
+    }
+]
